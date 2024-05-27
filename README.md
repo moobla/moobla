@@ -1,4 +1,4 @@
- Hi, I’m @moobla
+ just mobla
  im interested in coding, ai 
-I’m currently learning python and it librarys
+currently learning python and it librarys
 --she/her
